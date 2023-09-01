@@ -1,0 +1,43 @@
+{
+"movies":[
+
+{  "ïd": 1,
+   "title": "Guardiões das Galáxias",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg",
+   "url":   "https://pt.wikipedia.org/wiki/Guardi%C3%B5es_da_Gal%C3%A1xia_%28filme%29",
+   "sinopse": "filme de ação, aventura, comédia e ficção científica estadunidense de 2014, baseado na equipe ficcional de mesmo nome da Marvel Comics"
+},
+{  "id": 2,
+   "title": "Nada de Novo no Front",
+   "image": "https://cinemaeafins.com.br/wp-content/uploads/2023/02/nada-de-novo-no-front-poster.jpg",
+   "url":   "https://pt.wikipedia.org/wiki/Im_Westen_nichts_Neues_(filme)",
+   "sinopse": "longa-metragem anti-guerra alemão, com coprodução dos Estados Unidos, lançado em 2022, foi adaptado do romance homônimo de 1929, de Erich Maria Remarque."
+
+},
+{  "ïd": 3,
+   "title": "The Forgotten Battle",
+   "image": "https://br.web.img3.acsta.net/c_310_420/pictures/21/10/06/15/28/1435725.jpg",
+   "url":   "https://en.wikipedia.org/wiki/The_Forgotten_Battle",
+   "sinopse": "filme de drama de guerra holandês de 2020 dirigido por Matthijs van Heijningen Jr. que retrata a Batalha do Escalda em 1944. "
+
+},
+
+{   "ïd": 4,
+   "title": "Indiana Jones and the Dial of Destiny",
+   "image": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/indiana-jones-and-the-dial-of-destiny-poster.jpg",
+   "url":   "https://pt.wikipedia.org/wiki/Indiana_Jones_and_the_Dial_of_Destiny",
+   "sinopse": "Indiana Jones é uma franquia de mídia estadunidense criada pelo cineasta George Lucas e baseada nas aventuras do personagem homônimo, um arqueólogo e explorador fictício."
+
+},
+   
+{  "ïd": 5,
+   "title": "Flamin' Hot",
+   "image": "https://cinema10.com.br/upload/filmes/filmes_16930_flamin-hot-poster.jpg?default=poster",
+   "url":   "https://en.wikipedia.org/wiki/Flamin%27_Hot",
+   "sinopse": "longa-metragem, baseado no livro de memórias A Boy, a Burrito and a Cookie: From Janitor to Executive de Richard Montañez , que afirma ter inventado o Flamin 'Hot Cheetos"
+
+
+    }]
+
+
+}
